@@ -4,7 +4,7 @@ The goal of the project was to work with satelite data from a portion of the ear
 My group used some Mathematical methods in Computational Science to extract information from the satelite data,
 understand and observe sea ice behavior on the Ross Sea.
 
-We got an A for the project, btw :)
+We got an A for the project :)
 
 
 # Installation #
