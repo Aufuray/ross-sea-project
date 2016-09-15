@@ -2,7 +2,7 @@
 This was the capstone project of my Computational Science class (Spring 2016).
 The goal of the project was to work with satelite data from a portion of the earth - Ross Sea.
 My group used some Mathematical methods in Computational Science to extract information from the satelite data,
-to understand and observe sea ice behavior on the Ross Sea.
+understand and observe sea ice behavior on the Ross Sea.
 
 We got an A for the project, btw :)
 
